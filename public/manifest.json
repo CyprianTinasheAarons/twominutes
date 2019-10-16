@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+{"short_name":"Autherium","name":"Autherium","icons":[{"src":"img/autherium.svg","type":"image/png","sizes":"undefinedxundefined"},{"src":"img/autherium.svg","type":"image/svg+xml","sizes":"undefinedxundefined"}],"start_url":"/","background_color":"white","theme_color":"white","display":"fullscreen"}
+=======
+{"short_name":"Autherium","name":"Autherium","icons":[{"src":"img/autherium.svg","type":"image/png","sizes":"undefinedxundefined"},{"src":"img/autherium.svg","type":"image/svg+xml","sizes":"undefinedxundefined"}],"start_url":"/home","background_color":"white","theme_color":"white","display":"fullscreen"}
+>>>>>>> 4300f0427cce97d757201152e75a07b8e5cfdcdf
